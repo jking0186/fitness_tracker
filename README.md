@@ -1,4 +1,4 @@
-# Eat Da Burger
+# Fitness Tracker
 ![fitness tracker](public/img/fitnesstracker.png)
 
 ![badge](https://img.shields.io/badge/License-None-blue.svg)
