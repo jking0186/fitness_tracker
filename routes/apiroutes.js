@@ -50,7 +50,7 @@ router.delete("/api/workouts", ({ body }, res) => {
 
 router.put("/api/workouts/:id", ({body, params}, res) => {
     Workout.findByIdAndUpdate(params.id,
-        {$push:{exercise:body}}
+        { $push: { exercises: body } }
         )
     .then(data => {
         console.log(data);
