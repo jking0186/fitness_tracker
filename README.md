@@ -19,3 +19,4 @@ This application uses the following: Node.js, require, express, mongoDB, mongoos
 Deployed using Heroku
 
 ## Demo
+![gif demo](public/assets/img/fitness.gif)
