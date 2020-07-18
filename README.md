@@ -1,5 +1,5 @@
 # Fitness Tracker
-![fitness tracker](public/img/fitnesstracker.png)
+![fitness tracker](public/assets/img/fitnesstracker.png)
 
 ![badge](https://img.shields.io/badge/License-None-blue.svg)
 
@@ -19,5 +19,3 @@ This application uses the following: Node.js, require, express, mongoDB, mongoos
 Deployed using Heroku
 
 ## Demo
-
-
